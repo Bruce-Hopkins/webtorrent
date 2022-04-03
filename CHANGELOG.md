@@ -1,3 +1,56 @@
+## [1.8.13](https://github.com/webtorrent/webtorrent/compare/v1.8.12...v1.8.13) (2022-03-30)
+
+
+### Bug Fixes
+
+* **deps:** update dependency fs-chunk-store to ^2.0.5 ([2eef418](https://github.com/webtorrent/webtorrent/commit/2eef41884ffbee8f723ea2846e58756066983a0b))
+
+## [1.8.12](https://github.com/webtorrent/webtorrent/compare/v1.8.11...v1.8.12) (2022-03-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency bittorrent-protocol to ^3.5.2 ([13fb0d6](https://github.com/webtorrent/webtorrent/commit/13fb0d60df963edb83945c8b040159c560e67368))
+
+## [1.8.11](https://github.com/webtorrent/webtorrent/compare/v1.8.10...v1.8.11) (2022-03-27)
+
+## [1.8.10](https://github.com/webtorrent/webtorrent/compare/v1.8.9...v1.8.10) (2022-03-27)
+
+
+### Bug Fixes
+
+* web seed request URLs ([#2267](https://github.com/webtorrent/webtorrent/issues/2267)) ([5b4880a](https://github.com/webtorrent/webtorrent/commit/5b4880aee559b4b8d294503039d07af98b09418c))
+
+## [1.8.9](https://github.com/webtorrent/webtorrent/compare/v1.8.8...v1.8.9) (2022-03-26)
+
+
+### Bug Fixes
+
+* **deps:** update dependency parse-torrent to ^9.1.5 ([650a8c9](https://github.com/webtorrent/webtorrent/commit/650a8c93a68852da8beefd12c28a23ec4e1dc2a4))
+
+## [1.8.8](https://github.com/webtorrent/webtorrent/compare/v1.8.7...v1.8.8) (2022-03-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency debug to ^4.3.4 ([017c488](https://github.com/webtorrent/webtorrent/commit/017c4889ff62d9b74a457fe8cf5d1699686a4754))
+
+## [1.8.7](https://github.com/webtorrent/webtorrent/compare/v1.8.6...v1.8.7) (2022-03-24)
+
+## [1.8.6](https://github.com/webtorrent/webtorrent/compare/v1.8.5...v1.8.6) (2022-03-11)
+
+
+### Bug Fixes
+
+* **deps:** update dependency create-torrent to ^5.0.2 ([#2276](https://github.com/webtorrent/webtorrent/issues/2276)) ([f389f87](https://github.com/webtorrent/webtorrent/commit/f389f8755de9ef8725adba8163347f7fd65fb069))
+
+## [1.8.5](https://github.com/webtorrent/webtorrent/compare/v1.8.4...v1.8.5) (2022-03-06)
+
+
+### Bug Fixes
+
+* **deps:** update dependency torrent-discovery to ^9.4.9 ([5a08647](https://github.com/webtorrent/webtorrent/commit/5a086471a8499ee41e16b4db20200baa0458d849))
+
 ## [1.8.4](https://github.com/webtorrent/webtorrent/compare/v1.8.3...v1.8.4) (2022-03-03)
 
 
